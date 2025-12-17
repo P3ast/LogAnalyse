@@ -1,0 +1,222 @@
+ip_range,country
+1.0.0.0/8,Australia
+2.0.0.0/8,United Kingdom
+3.0.0.0/8,United States
+4.0.0.0/8,Cameroon
+5.0.0.0/8,United Kingdom
+6.0.0.0/8,United States
+7.0.0.0/8,United States
+8.0.0.0/8,United States
+9.0.0.0/8,United States
+11.0.0.0/8,United States
+12.0.0.0/8,United States
+13.0.0.0/8,United States
+14.0.0.0/8,China
+15.0.0.0/8,United States
+16.0.0.0/8,United States
+17.0.0.0/8,United States
+18.0.0.0/8,United States
+19.0.0.0/8,United States
+20.0.0.0/8,United States
+21.0.0.0/8,United States
+22.0.0.0/8,United States
+23.0.0.0/8,United States
+24.0.0.0/8,United States
+25.0.0.0/8,United Kingdom
+26.0.0.0/8,United States
+27.0.0.0/8,China
+28.0.0.0/8,United States
+29.0.0.0/8,United States
+30.0.0.0/8,United States
+31.0.0.0/8,Germany
+32.0.0.0/8,United States
+33.0.0.0/8,United States
+34.0.0.0/8,United States
+35.0.0.0/8,United States
+36.0.0.0/8,China
+37.0.0.0/8,Germany
+38.0.0.0/8,United States
+39.0.0.0/8,China
+40.0.0.0/8,United States
+41.0.0.0/8,South Africa
+42.0.0.0/8,China
+43.0.0.0/8,Singapore
+44.0.0.0/8,United States
+45.0.0.0/8,Ghana
+46.0.0.0/8,Germany
+47.0.0.0/8,China
+48.0.0.0/8,United States
+49.0.0.0/8,China
+50.0.0.0/8,United States
+51.0.0.0/8,Germany
+52.0.0.0/8,United States
+53.0.0.0/8,Germany
+54.0.0.0/8,United States
+55.0.0.0/8,United States
+56.0.0.0/8,United States
+57.0.0.0/8,Ireland
+58.0.0.0/8,China
+59.0.0.0/8,China
+60.0.0.0/8,China
+61.0.0.0/8,China
+62.0.0.0/8,United Kingdom
+63.0.0.0/8,Germany
+64.0.0.0/8,United States
+65.0.0.0/8,United States
+66.0.0.0/8,United States
+67.0.0.0/8,United States
+68.0.0.0/8,United States
+69.0.0.0/8,United States
+70.0.0.0/8,United States
+71.0.0.0/8,United States
+72.0.0.0/8,United States
+73.0.0.0/8,United States
+74.0.0.0/8,United States
+75.0.0.0/8,United States
+76.0.0.0/8,United States
+77.0.0.0/8,United States
+78.0.0.0/8,Italy
+79.0.0.0/8,United States
+80.0.0.0/8,Netherlands
+81.0.0.0/8,Italy
+82.0.0.0/8,France
+83.0.0.0/8,Chile
+84.0.0.0/8,United States
+85.0.0.0/8,Germany
+86.0.0.0/8,France
+87.0.0.0/8,Ireland
+88.0.0.0/8,India
+89.0.0.0/8,Thailand
+90.0.0.0/8,United Kingdom
+91.0.0.0/8,Germany
+92.0.0.0/8,Sweden
+93.0.0.0/8,Germany
+94.0.0.0/8,United Kingdom
+95.0.0.0/8,Hong Kong
+96.0.0.0/8,United States
+97.0.0.0/8,United States
+98.0.0.0/8,United States
+99.0.0.0/8,Germany
+100.0.0.0/8,United States
+101.0.0.0/8,China
+102.0.0.0/8,Mauritius
+103.0.0.0/8,Australia
+104.0.0.0/8,United States
+105.0.0.0/8,Kenya
+106.0.0.0/8,China
+107.0.0.0/8,United States
+108.0.0.0/8,United States
+109.0.0.0/8,France
+110.0.0.0/8,China
+111.0.0.0/8,China
+112.0.0.0/8,China
+113.0.0.0/8,China
+114.0.0.0/8,China
+115.0.0.0/8,China
+116.0.0.0/8,China
+117.0.0.0/8,China
+118.0.0.0/8,China
+119.0.0.0/8,China
+120.0.0.0/8,China
+121.0.0.0/8,China
+122.0.0.0/8,China
+123.0.0.0/8,China
+124.0.0.0/8,China
+125.0.0.0/8,China
+126.0.0.0/8,Japan
+128.0.0.0/8,United States
+129.0.0.0/8,United States
+130.0.0.0/8,United States
+131.0.0.0/8,United States
+132.0.0.0/8,United States
+133.0.0.0/8,Japan
+134.0.0.0/8,United States
+135.0.0.0/8,United States
+136.0.0.0/8,United States
+137.0.0.0/8,United States
+138.0.0.0/8,United States
+139.0.0.0/8,United States
+140.0.0.0/8,United States
+141.0.0.0/8,United States
+142.0.0.0/8,Canada
+143.0.0.0/8,United States
+144.0.0.0/8,United States
+145.0.0.0/8,Netherlands
+146.0.0.0/8,United States
+147.0.0.0/8,United States
+148.0.0.0/8,United States
+149.0.0.0/8,United States
+150.0.0.0/8,Japan
+151.0.0.0/8,United Kingdom
+152.0.0.0/8,United States
+153.0.0.0/8,United States
+154.0.0.0/8,Ghana
+155.0.0.0/8,United States
+156.0.0.0/8,United States
+157.0.0.0/8,United States
+158.0.0.0/8,United States
+159.0.0.0/8,United States
+160.0.0.0/8,United States
+161.0.0.0/8,United States
+162.0.0.0/8,United States
+163.0.0.0/8,France
+164.0.0.0/8,United States
+165.0.0.0/8,United States
+166.0.0.0/8,United States
+167.0.0.0/8,Canada
+168.0.0.0/8,United States
+169.0.0.0/8,United States
+170.0.0.0/8,United States
+171.0.0.0/8,United States
+172.0.0.0/8,United States
+173.0.0.0/8,United States
+174.0.0.0/8,United States
+175.0.0.0/8,China
+176.0.0.0/8,United Kingdom
+177.0.0.0/8,Brazil
+178.0.0.0/8,United Kingdom
+179.0.0.0/8,Brazil
+180.0.0.0/8,China
+181.0.0.0/8,Venezuela
+182.0.0.0/8,China
+183.0.0.0/8,China
+184.0.0.0/8,United States
+185.0.0.0/8,Switzerland
+186.0.0.0/8,Chile
+187.0.0.0/8,Mexico
+188.0.0.0/8,United Kingdom
+189.0.0.0/8,Mexico
+190.0.0.0/8,Venezuela
+191.0.0.0/8,Brazil
+192.0.0.0/8,United States
+193.0.0.0/8,Germany
+194.0.0.0/8,United Kingdom
+195.0.0.0/8,United Kingdom
+196.0.0.0/8,Kenya
+197.0.0.0/8,South Africa
+198.0.0.0/8,United States
+199.0.0.0/8,United States
+200.0.0.0/8,Brazil
+201.0.0.0/8,Mexico
+202.0.0.0/8,Japan
+203.0.0.0/8,Australia
+204.0.0.0/8,United States
+205.0.0.0/8,United States
+206.0.0.0/8,United States
+207.0.0.0/8,United States
+208.0.0.0/8,United States
+209.0.0.0/8,United States
+210.0.0.0/8,Japan
+211.0.0.0/8,China
+212.0.0.0/8,United Kingdom
+213.0.0.0/8,Netherlands
+214.0.0.0/8,United States
+215.0.0.0/8,United States
+216.0.0.0/8,United States
+217.0.0.0/8,Germany
+218.0.0.0/8,China
+219.0.0.0/8,Japan
+220.0.0.0/8,Japan
+221.0.0.0/8,Japan
+222.0.0.0/8,China
+223.0.0.0/8,China
