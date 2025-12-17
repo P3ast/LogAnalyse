@@ -1,4 +1,5 @@
-import re 
+###import re (Optimisation avec regex non utilisée)
+
 
 def analyze_auth_logs(logs):
     with open(logs, 'r') as file:
@@ -10,9 +11,8 @@ def analyze_auth_logs(logs):
         for part in parts:
             if part.count('.') == 3 and all(0 <= int(num) < 256 for num in part.split('.') if num.isdigit()):
                 extracted_ips.append(part)
-                break
-    return extracted_ips
-
+    ###for ip in extracted_ips:
+        
 if __name__ == "__main__":
     logs_file = input("Entrez le chemin du fichier de logs: ").strip()
     if not logs_file:
